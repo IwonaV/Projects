@@ -1,6 +1,3 @@
--- This simple database was created in order to practice writing queries. 
-
-
 DROP DATABASE IF EXISTS ivcompany;
 
 CREATE DATABASE IF NOT EXISTS ivcompany; 
